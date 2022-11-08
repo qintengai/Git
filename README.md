@@ -1,5 +1,5 @@
 # Git
-必知必会的Git命令
+必知必会的Git命令 \n
 git checkout -b xxx：git checkout xxx是指切换到xxx相当于复制了remote的仓库到本地的xxx分支上，-b就是branch，即创建新的分支，所以这条指令的意思就是创建并切换到xxx。
 git diff ：查看自己对代码做出的改变，也就是查看暂存区与disk区文件的差异。
 git add xxx：将xxx文件添加到暂存区。
